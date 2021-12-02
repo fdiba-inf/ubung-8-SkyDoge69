@@ -42,7 +42,7 @@ public class Point {
     }
 
     public String toString() {
-        String res = "Point:" + '(' + this.x + ", " + this.y + ')';
+        String res = "(" + this.x + ", " + this.y + ')';
         return res;
     }
 }
